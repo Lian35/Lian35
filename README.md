@@ -31,7 +31,7 @@
 <td width="50%">
 <h3 align="center">🎓 EAGLE — CONECTANDO MENTES</h3>
 <div align="center">
-<a href="https://github.com/elianhurtado/A-S-Aprende-y-Supera" target="_blank">
+<a href="#" target="_blank">
   <img width="400"  alt="Pagina Tecnico" src="https://github.com/user-attachments/assets/fc13ed7b-d51f-4c2c-af00-7b730ed9aac4" />
 </a>
 <p>
@@ -72,26 +72,23 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">🖥️ Suite Electron</h3>
+<h3 align="center">🖥️ NASA PROJECT</h3>
 <div align="center">
-<a href="https://github.com/elianhurtado" target="_blank">
-<img src="https://via.placeholder.com/400x250/47848F/FFFFFF?text=Electron+Apps" width="400" alt="Aplicaciones Electron">
+<a href="#" target="_blank">
+  <img width="400" alt="Logotipo Vino Minimalista Negro y Violeta (2)" src="https://github.com/user-attachments/assets/5375623c-e459-4024-8ec9-4f29cb84cba5" />
 </a>
 <p>
-<a href="https://github.com/elianhurtado" target="_blank">
-<img src="https://img.shields.io/badge/REPOSITORIOS-47848F?style=for-the-badge&logo=github&logoColor=white">
-</a>
-<a href="#" target="_blank">
-<img src="https://img.shields.io/badge/DESCARGAS-339933?style=for-the-badge&logo=windows&logoColor=white">
+<a href="https://github.com/Lian35/bloomwatch-dashboard.git" target="_blank">
+<img src="https://img.shields.io/badge/REPOSITORIO-47848F?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-<p>Suite de aplicaciones desktop multiplataforma desarrolladas con <strong>Electron, JavaScript y Node.js</strong>. Soluciones eficientes para diferentes necesidades de productividad y automatización.</p>
+<p>El Sistema Global de Fenología y Alerta Temprana es un proyecto de investigación desarrollado en el marco educativo de la NASA. <strong>pYTHON, JavaScript y Streamlit</strong>. Objetivo principal es analizar la dinámica de la vegetación y los patrones ambientales mediante datos satelitales.</p>
 </div>
                                                                                       
 </td>       
 
 <td width="50%">
-<h3 align="center">🔐 Ciberseguridad & IA</h3>
+<h3 align="center">🔐 SISTEMA DE GESTIÓN TICS</h3>
 <div align="center">
 <a href="https://github.com/elianhurtado" target="_blank">
 <img src="https://via.placeholder.com/400x250/EC4899/FFFFFF?text=Ciberseguridad+IA" width="400" alt="Proyectos Ciberseguridad">
@@ -104,7 +101,7 @@
 <img src="https://img.shields.io/badge/RESEARCH-FF6B6B?style=for-the-badge&logo=book&logoColor=white">
 </a>
 </p>
-<p>Exploración en <strong>ciberseguridad e inteligencia artificial</strong>. Proyectos de pentesting, análisis de vulnerabilidades, machine learning y desarrollo de herramientas de seguridad avanzadas.</p>
+<p>Exploración en un <strong>Sistema de Gestión TICS</strong>. Es una aplicación web empresarial diseñada para la administración eficiente y segura del inventario de equipos y recursos tecnológicos. Desarrollado con el framework Django, el sistema garantiza la trazabilidad de los activos mediante autenticación obligatoria y herramientas de auditoría..</p>
 </div>
                                                                                       
 </td>  
