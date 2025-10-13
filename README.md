@@ -29,20 +29,20 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">🎓 A'S (Aprende y Supera)</h3>
+<h3 align="center">🎓 Eagle — Conectando Mentes</h3>
 <div align="center">
 <a href="https://github.com/elianhurtado/A-S-Aprende-y-Supera" target="_blank">
   <img width="400"  alt="Pagina Tecnico" src="https://github.com/user-attachments/assets/fc13ed7b-d51f-4c2c-af00-7b730ed9aac4" />
 </a>
 <p>
-<a href="https://github.com/elianhurtado/A-S-Aprende-y-Supera" target="_blank">
+<a href="https://github.com/Lian35/Eagle.git" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-7E22CE?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<a href="#" target="_blank">
-<img src="https://img.shields.io/badge/DEMO-4F46E5?style=for-the-badge&logo=rocket&logoColor=white">
+<a href="https://eagle.glide.page" target="_blank">
+<img src="https://img.shields.io/badge/SITIO_WEB-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 </p>
-<p>Plataforma educativa innovadora para reforzamiento académico y apoyo estudiantil. Desarrollada con <strong>Python, Flutter y MySQL</strong> para brindar una experiencia educativa personalizada y accesible.</p>
+<p>Plataforma educativa innovadora para reforzamiento académico y apoyo estudiantil. Desarrollada con <strong>Python, Glide y Access</strong> para brindar una experiencia educativa personalizada y accesible.</p>
 </div>
                                                                                       
 </td>
