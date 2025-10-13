@@ -29,14 +29,14 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">🎓 Eagle — Conectando Mentes</h3>
+<h3 align="center">🎓 EAGLE — CONECTANDO MENTES</h3>
 <div align="center">
 <a href="https://github.com/elianhurtado/A-S-Aprende-y-Supera" target="_blank">
   <img width="400"  alt="Pagina Tecnico" src="https://github.com/user-attachments/assets/fc13ed7b-d51f-4c2c-af00-7b730ed9aac4" />
 </a>
 <p>
 <a href="https://github.com/Lian35/Eagle.git" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-7E22CE?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/REPOSITORIOS-47848F?style=for-the-badge&logo=github&logoColor=white">
 </a>
 <a href="https://eagle.glide.page" target="_blank">
 <img src="https://img.shields.io/badge/SITIO_WEB-000000?style=for-the-badge&logo=vercel&logoColor=white">
@@ -49,21 +49,21 @@
 
 <td width="50%">
                <br>
-<h3 align="center">👕 RMJNoire</h3>
+<h3 align="center">🍌 AGROVISION</h3>
 <div align="center">                                       
 <a href="#" target="_blank">
-<img src="https://via.placeholder.com/400x250/000000/FFFFFF?text=RMJNoire+Brand" width="400" alt="RMJNoire Marca">
+  <img width="400" height="500" alt="Logotipo Vino Minimalista Negro y Violeta (1)" src="https://github.com/user-attachments/assets/889cc802-5839-4c5e-98c4-8951b0bdc68a" />
 </a>
 <br>
 <p>
-<a href="#" target="_blank">
-<img src="https://img.shields.io/badge/SITIO_WEB-000000?style=for-the-badge&logo=vercel&logoColor=white">
+<a href=" https://github.com/Lian35/AGROVISION.git" target="_blank">
+<img src="https://img.shields.io/badge/REPOSITORIO-47848F?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<a href="#" target="_blank">
-<img src="https://img.shields.io/badge/PORTFOLIO-EC4899?style=for-the-badge&logo=adobe&logoColor=white">
+<a href=" https://drive.google.com/file/d/1QsImUVK3nMXxEN1gJOYUGVFaNp1KATrc/view?usp=sharing" target="_blank">
+<img src="https://img.shields.io/badge/DESCARGAS-339933?style=for-the-badge&logo=windows&logoColor=white">
 </a>
 </p>
-<p>Marca de moda gótica que fusiona <strong>tecnología, diseño y emprendimiento</strong>. Proyecto personal que combina desarrollo web, e-commerce, marketing digital y diseño creativo.</p>
+<p>Sistema avanzado de clasificación de bananos que combina visión por computadora y aprendizaje profundo para identificación en tiempo real con autenticación facial.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
