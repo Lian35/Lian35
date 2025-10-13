@@ -32,7 +32,7 @@
 <h3 align="center">🎓 A'S (Aprende y Supera)</h3>
 <div align="center">
 <a href="https://github.com/elianhurtado/A-S-Aprende-y-Supera" target="_blank">
-<img src="https://via.placeholder.com/400x250/7E22CE/FFFFFF?text=Plataforma+Educativa+A'S" width="400" alt="A'S Plataforma Educativa">
+  <img width="400"  alt="Pagina Tecnico" src="https://github.com/user-attachments/assets/fc13ed7b-d51f-4c2c-af00-7b730ed9aac4" />
 </a>
 <p>
 <a href="https://github.com/elianhurtado/A-S-Aprende-y-Supera" target="_blank">
