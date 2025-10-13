@@ -3,7 +3,8 @@
 <h3 align="center">🚀 Estudiante de Ingeniería en TI • Desarrollador Full Stack • Emprendedor</h3>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&animation=fadeIn">
+<img width="1200" height="480" alt="offline" src="https://github.com/user-attachments/assets/2e22cf9d-9651-4101-bd6d-e81f93f067a8" />
+
 
 [![GitHub followers](https://img.shields.io/github/followers/elianhurtado?style=social)](https://github.com/elianhurtado)
 [![Visitas al perfil](https://komarev.com/ghpvc/?username=elianhurtado&label=Visitas&color=blueviolet&style=flat)](https://github.com/elianhurtado)
