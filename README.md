@@ -159,12 +159,6 @@
 
 ## 🧠 &nbsp;Habilidades Técnicas
 
-### **💡 &nbsp;Desarrollo Full Stack**
-- Desarrollo frontend y backend
-- Arquitectura de software
-- APIs RESTful
-- Bases de datos relacionales
-
 ### **🎨 &nbsp;Diseño & UX**
 - Interfaces de usuario intuitivas
 - Experiencia de usuario
@@ -181,7 +175,7 @@
 ## 📫 &nbsp;Conectemos
 
 <p align="center">
-  <a href="mailto:elianhurtadojama@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:fg664714@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/elianhurtado"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/elianhurtado"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
@@ -194,9 +188,7 @@
   <a href="https://www.spaceappschallenge.org/">
     <img src="https://img.shields.io/badge/NASA_Space_Apps_Challenge-000000?style=for-the-badge&logo=nasa&logoColor=white"/>
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Desarrollador_Full_Stack-7E22CE?style=for-the-badge&logo=code&logoColor=white"/>
-  </a>
+
   <a href="#">
     <img src="https://img.shields.io/badge/Investigación_IA-EC4899?style=for-the-badge&logo=ai&logoColor=white"/>
   </a>
