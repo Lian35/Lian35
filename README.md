@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://github.com/Lian35"><img src="https://img.shields.io/github/followers/Lian35?style=social"></a>
   <a href="https://github.com/Lian35"><img src="https://komarev.com/ghpvc/?username=Lian35&label=Visitas&color=blueviolet&style=flat"></a>
-  <a href="mailto:fg664714@gmail.com"><img src="https://img.shields.io/badge/Email-https://github.com/Lian35-red?style=flat&logo=gmail"></a>
+  <a href="mailto:fg664714@gmail.com"><img src="https://img.shields.io/badge/Email-fg664714@gmail.com-red?style=flat&logo=gmail"></a>
  
 </p>
 
