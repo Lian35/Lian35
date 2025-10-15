@@ -9,7 +9,7 @@
   <a href="https://github.com/Lian35"><img src="https://img.shields.io/github/followers/elianhurtado?style=social"></a>
   <a href="https://github.com/Lian35"><img src="https://komarev.com/ghpvc/?username=elianhurtado&label=Visitas&color=blueviolet&style=flat"></a>
   <a href="mailto:fg664714@gmail.com"><img src="https://img.shields.io/badge/Email-elianhurtadojama@gmail.com-red?style=flat&logo=gmail"></a>
- >
+ 
 </p>
 
 ---
