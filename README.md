@@ -6,10 +6,10 @@
 <img width="1200" height="480" alt="banner" src="https://github.com/user-attachments/assets/2e22cf9d-9651-4101-bd6d-e81f93f067a8" />
 
 <p align="center">
-  <a href="https://github.com/elianhurtado"><img src="https://img.shields.io/github/followers/elianhurtado?style=social"></a>
-  <a href="https://github.com/elianhurtado"><img src="https://komarev.com/ghpvc/?username=elianhurtado&label=Visitas&color=blueviolet&style=flat"></a>
-  <a href="mailto:elianhurtadojama@gmail.com"><img src="https://img.shields.io/badge/Email-elianhurtadojama@gmail.com-red?style=flat&logo=gmail"></a>
-  <a href="https://linkedin.com/in/elianhurtado"><img src="https://img.shields.io/badge/LinkedIn-Conéctate-blue?style=flat&logo=linkedin"></a>
+  <a href="https://github.com/Lian35"><img src="https://img.shields.io/github/followers/elianhurtado?style=social"></a>
+  <a href="https://github.com/Lian35"><img src="https://komarev.com/ghpvc/?username=elianhurtado&label=Visitas&color=blueviolet&style=flat"></a>
+  <a href="mailto:fg664714@gmail.com"><img src="https://img.shields.io/badge/Email-elianhurtadojama@gmail.com-red?style=flat&logo=gmail"></a>
+ >
 </p>
 
 ---
