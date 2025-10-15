@@ -78,17 +78,7 @@
 </div>
 </td>
 
-<td width="50%">
-<h3 align="center">🔐 SISTEMA DE GESTIÓN TICS</h3>
-<div align="center">
-<a href="#"><img src="https://via.placeholder.com/400x250/0D1117/7E22CE?text=SISTEMA+TICS" width="400" alt="Sistema TICS"></a>
-<p>
-<a href="https://github.com/elianhurtado"><img src="https://img.shields.io/badge/PROYECTOS-EC4899?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
-<p>Aplicación web empresarial para la <strong>gestión de inventario tecnológico</strong> con autenticación de usuarios y trazabilidad completa.</p>
-<p><em>Tecnologías: Django, MySQL, HTML5, CSS3</em></p>
-</div>
-</td>
+
 </tr>
 </table>
 
